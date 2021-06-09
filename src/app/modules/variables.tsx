@@ -1,0 +1,26 @@
+/* eslint-disable no-undef */
+/* eslint-disable import/no-anonymous-default-export */
+export default {
+  FONT_H1: 32,
+  FONT_H2: 24,
+  FONT_H3: 18.72,
+  FONT_H4: 16,
+  FONT_H5: 13.28,
+  FONT_H6: 10.72,
+  ICON_SIZE: 17,
+  PADDING: 12,
+  MARGIN: 15,
+  BODY_HORIZONTAL: 24,
+  BORDER_RADIUS: 10,
+  RADIUS_SMALL: 3,
+  FONT_SMALL: 100,
+  FONT_MEDIUM: 300,
+  FONT_UPPER_MEDIUM: 400,
+  FONT_LARGE: 500,
+  FONT_BIG: 700,
+  VIEW_PORT_WIDTH: window.innerWidth,
+  VIEW_PORT_HEIGHT: window.innerHeight,
+  BOX_SHADOW: "1px 1px 8px 0px rgba(50, 50, 50, 0.1)",
+  BOX_SHADOW_SMALL: "0.5px 1px 8px 0.3px rgba(30, 10, 10, 0.3)",
+  HEIGHT_BUTTON: "45px",
+};
